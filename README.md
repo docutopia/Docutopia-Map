@@ -1,10 +1,8 @@
-*Cooperative Real Life Manifestation Game*
+Docutopia Map is a tool to connect with ourselves, with each other and with our dreams, to manifest them together.
 
-Its mission is to provide a transformative game. To connect with ourselves, with each other and with our dreams, to manifest them together.
+Docutopia Map is using the [Utopia-UI](https://github.com/utopia-os/utopia-ui) Components.
 
-Utopia Game is using the [Utopia-UI](https://github.com/utopia-os/utopia-ui) Components.
-
-The current development status is live @ [utopia-game.org](https://utopia-game.org).
+The current development status is live @ [next.docutopia.de](https://next.docutopia.de).
 
 ## Getting Started
 
